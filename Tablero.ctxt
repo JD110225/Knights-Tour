@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=
+comment1.target=Tablero()
+comment2.params=fila\ columna
+comment2.target=boolean\ esValida(int,\ int)
+comment3.params=fila\ columna\ contador
+comment3.target=boolean\ recorridoCaballo(int,\ int,\ int)
+comment4.params=
+comment4.target=void\ run()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
